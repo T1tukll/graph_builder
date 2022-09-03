@@ -1,5 +1,5 @@
 # BraphBuilder
-Program which graws protozoan non-quadratic functions.  
+Program which draws protozoan non-quadratic functions.  
 Exe file locates in https://github.com/T1tukll/graph_builder/blob/main/graphicks_1/bin/Release/Graph%20builder.exe
 
 # Bug reporting and feedback
