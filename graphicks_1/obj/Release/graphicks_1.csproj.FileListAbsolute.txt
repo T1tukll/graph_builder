@@ -1,0 +1,40 @@
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\bin\Release\Graph builder.exe.config
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\bin\Release\Graph builder.exe.manifest
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\bin\Release\Graph builder.application
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\bin\Release\Graph builder.exe
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\bin\Release\Graph builder.pdb
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\obj\Release\graphicks_1.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\obj\Release\graphicks_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\obj\Release\Interop.MSScriptControl.dll
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\obj\Release\graphicks_1.csproj.ResolveComReference.cache
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\obj\Release\graphicks_1.Form1.resources
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\obj\Release\graphicks_1.guide_form.resources
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\obj\Release\graphicks_1.Properties.Resources.resources
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\obj\Release\graphicks_1.setup_form.resources
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\obj\Release\graphicks_1.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\obj\Release\graphicks_1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\obj\Release\Graph builder.TrustInfo.xml
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\obj\Release\Graph builder.exe.manifest
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\obj\Release\Graph builder.application
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\obj\Release\Graph builder.exe
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\obj\Release\Graph builder.pdb
+D:\User\Documents\source\repos\WinForms\C#\graphicks_1\obj\Release\graphicks_1.csproj.AssemblyReference.cache
+D:\User\Documents\source\repos\WinForms\C#\graphicks_1\obj\Release\graphicks_1.csproj.SuggestedBindingRedirects.cache
+D:\User\Documents\source\repos\WinForms\C#\graphicks_1\obj\Release\Graph builder.exe
+D:\User\Documents\source\repos\WinForms\C#\graphicks_1\obj\Release\Graph builder.pdb
+D:\User\Documents\source\repos\WinForms\C#\graphicks_1\bin\Release\Graph builder.exe.config
+D:\User\Documents\source\repos\WinForms\C#\graphicks_1\bin\Release\Graph builder.exe.manifest
+D:\User\Documents\source\repos\WinForms\C#\graphicks_1\bin\Release\Graph builder.application
+D:\User\Documents\source\repos\WinForms\C#\graphicks_1\bin\Release\Graph builder.exe
+D:\User\Documents\source\repos\WinForms\C#\graphicks_1\bin\Release\Graph builder.pdb
+D:\User\Documents\source\repos\WinForms\C#\graphicks_1\obj\Release\Interop.MSScriptControl.dll
+D:\User\Documents\source\repos\WinForms\C#\graphicks_1\obj\Release\graphicks_1.csproj.ResolveComReference.cache
+D:\User\Documents\source\repos\WinForms\C#\graphicks_1\obj\Release\graphicks_1.Form1.resources
+D:\User\Documents\source\repos\WinForms\C#\graphicks_1\obj\Release\graphicks_1.guide_form.resources
+D:\User\Documents\source\repos\WinForms\C#\graphicks_1\obj\Release\graphicks_1.Properties.Resources.resources
+D:\User\Documents\source\repos\WinForms\C#\graphicks_1\obj\Release\graphicks_1.setup_form.resources
+D:\User\Documents\source\repos\WinForms\C#\graphicks_1\obj\Release\graphicks_1.csproj.GenerateResource.cache
+D:\User\Documents\source\repos\WinForms\C#\graphicks_1\obj\Release\graphicks_1.csproj.CoreCompileInputs.cache
+D:\User\Documents\source\repos\WinForms\C#\graphicks_1\obj\Release\Graph builder.TrustInfo.xml
+D:\User\Documents\source\repos\WinForms\C#\graphicks_1\obj\Release\Graph builder.exe.manifest
+D:\User\Documents\source\repos\WinForms\C#\graphicks_1\obj\Release\Graph builder.application

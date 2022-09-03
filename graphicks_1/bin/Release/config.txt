@@ -1,0 +1,4 @@
+max_border=10
+min_border=-13
+incremention=0,5
+pixel_size=20

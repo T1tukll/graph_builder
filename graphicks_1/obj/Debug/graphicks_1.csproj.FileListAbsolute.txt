@@ -1,0 +1,72 @@
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\obj\Debug\graphicks_1.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\obj\Debug\graphicks_1.Form1.resources
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\obj\Debug\graphicks_1.Properties.Resources.resources
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\obj\Debug\graphicks_1.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\obj\Debug\graphicks_1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\obj\Debug\Interop.MSScriptControl.dll
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\obj\Debug\graphicks_1.csproj.ResolveComReference.cache
+C:\Users\user\source\repos\graphicks_1\bin\Debug\graphicks_1.exe.config
+C:\Users\user\source\repos\graphicks_1\bin\Debug\graphicks_1.exe
+C:\Users\user\source\repos\graphicks_1\bin\Debug\graphicks_1.pdb
+C:\Users\user\source\repos\graphicks_1\obj\Debug\graphicks_1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\graphicks_1\obj\Debug\Interop.MSScriptControl.dll
+C:\Users\user\source\repos\graphicks_1\obj\Debug\graphicks_1.csproj.ResolveComReference.cache
+C:\Users\user\source\repos\graphicks_1\obj\Debug\graphicks_1.Form1.resources
+C:\Users\user\source\repos\graphicks_1\obj\Debug\graphicks_1.Properties.Resources.resources
+C:\Users\user\source\repos\graphicks_1\obj\Debug\graphicks_1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\graphicks_1\obj\Debug\graphicks_1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\graphicks_1\obj\Debug\graphicks_1.exe
+C:\Users\user\source\repos\graphicks_1\obj\Debug\graphicks_1.pdb
+G:\graphicks_1\bin\Debug\graphicks_1.exe.config
+G:\graphicks_1\bin\Debug\graphicks_1.exe
+G:\graphicks_1\bin\Debug\graphicks_1.pdb
+G:\graphicks_1\obj\Debug\graphicks_1.csproj.AssemblyReference.cache
+G:\graphicks_1\obj\Debug\Interop.MSScriptControl.dll
+G:\graphicks_1\obj\Debug\graphicks_1.csproj.ResolveComReference.cache
+G:\graphicks_1\obj\Debug\graphicks_1.Form1.resources
+G:\graphicks_1\obj\Debug\graphicks_1.Properties.Resources.resources
+G:\graphicks_1\obj\Debug\graphicks_1.csproj.GenerateResource.cache
+G:\graphicks_1\obj\Debug\graphicks_1.csproj.CoreCompileInputs.cache
+G:\graphicks_1\obj\Debug\graphicks_1.exe
+G:\graphicks_1\obj\Debug\graphicks_1.pdb
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\obj\Debug\graphicks_1.setup_form.resources
+G:\graphicks_1\obj\Debug\graphicks_1.setup_form.resources
+D:\USER\Desktop\щ\project_grafics\graphicks_1_4\bin\Debug\graphicks_1.exe.config
+D:\USER\Desktop\щ\project_grafics\graphicks_1_4\bin\Debug\graphicks_1.exe
+D:\USER\Desktop\щ\project_grafics\graphicks_1_4\bin\Debug\graphicks_1.pdb
+D:\USER\Desktop\щ\project_grafics\graphicks_1_4\obj\Debug\graphicks_1.csproj.AssemblyReference.cache
+D:\USER\Desktop\щ\project_grafics\graphicks_1_4\obj\Debug\Interop.MSScriptControl.dll
+D:\USER\Desktop\щ\project_grafics\graphicks_1_4\obj\Debug\graphicks_1.csproj.ResolveComReference.cache
+D:\USER\Desktop\щ\project_grafics\graphicks_1_4\obj\Debug\graphicks_1.Form1.resources
+D:\USER\Desktop\щ\project_grafics\graphicks_1_4\obj\Debug\graphicks_1.Properties.Resources.resources
+D:\USER\Desktop\щ\project_grafics\graphicks_1_4\obj\Debug\graphicks_1.setup_form.resources
+D:\USER\Desktop\щ\project_grafics\graphicks_1_4\obj\Debug\graphicks_1.csproj.GenerateResource.cache
+D:\USER\Desktop\щ\project_grafics\graphicks_1_4\obj\Debug\graphicks_1.csproj.CoreCompileInputs.cache
+D:\USER\Desktop\щ\project_grafics\graphicks_1_4\obj\Debug\graphicks_1.exe
+D:\USER\Desktop\щ\project_grafics\graphicks_1_4\obj\Debug\graphicks_1.pdb
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\obj\Debug\graphicks_1.guide_form.resources
+D:\USER\Desktop\graphicks_1\bin\Debug\graphicks_1.exe.config
+D:\USER\Desktop\graphicks_1\bin\Debug\graphicks_1.exe
+D:\USER\Desktop\graphicks_1\bin\Debug\graphicks_1.pdb
+D:\USER\Desktop\graphicks_1\obj\Debug\graphicks_1.csproj.AssemblyReference.cache
+D:\USER\Desktop\graphicks_1\obj\Debug\Interop.MSScriptControl.dll
+D:\USER\Desktop\graphicks_1\obj\Debug\graphicks_1.csproj.ResolveComReference.cache
+D:\USER\Desktop\graphicks_1\obj\Debug\graphicks_1.Form1.resources
+D:\USER\Desktop\graphicks_1\obj\Debug\graphicks_1.guide_form.resources
+D:\USER\Desktop\graphicks_1\obj\Debug\graphicks_1.Properties.Resources.resources
+D:\USER\Desktop\graphicks_1\obj\Debug\graphicks_1.setup_form.resources
+D:\USER\Desktop\graphicks_1\obj\Debug\graphicks_1.csproj.GenerateResource.cache
+D:\USER\Desktop\graphicks_1\obj\Debug\graphicks_1.csproj.CoreCompileInputs.cache
+D:\USER\Desktop\graphicks_1\obj\Debug\graphicks_1.exe
+D:\USER\Desktop\graphicks_1\obj\Debug\graphicks_1.pdb
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\bin\Debug\Graph builder.exe.config
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\bin\Debug\Graph builder.exe.manifest
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\bin\Debug\Graph builder.application
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\bin\Debug\Graph builder.exe
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\bin\Debug\Graph builder.pdb
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\obj\Debug\Graph builder.TrustInfo.xml
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\obj\Debug\Graph builder.exe.manifest
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\obj\Debug\Graph builder.application
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\obj\Debug\Graph builder.exe
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\obj\Debug\Graph builder.pdb
+C:\Users\USER\source\repos\WinForms\C#\graphicks_1\obj\Debug\graphicks_1.csproj.SuggestedBindingRedirects.cache

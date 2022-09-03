@@ -1,0 +1,4 @@
+max_border =5
+min_border =3
+incremention =1
+pixel_size =10
